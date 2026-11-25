@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "total": 14060,
+  "curated": 60,
+  "wordnet": 14000,
+  "levels": {
+    "core": 3007,
+    "stretch": 5536,
+    "deep": 5517
+  },
+  "source": "Princeton WordNet 3.1",
+  "built": "2026-11-25"
+}
